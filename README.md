@@ -1,6 +1,8 @@
 ### Hi there, I'm [yueban!](https://yueban.github.io) 👋
 
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=yueban&show_icons=true&theme=buefy" />  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yueban&layout=compact&hide=javascript,html,c&langs_count=7&theme=buefy" />
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=yueban&show_icons=true&theme=buefy" />
+
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yueban&layout=compact&hide=javascript,html,c&langs_count=7&theme=buefy" />
 
 
 - 🔭 I’m currently working for [coreshield](https://github.com/coreshield)
