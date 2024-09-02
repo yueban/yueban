@@ -6,7 +6,6 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=yueban&show_icons=true&theme=buefy&hide_rank=true" />
 </span>
 
-- 🌱 I’m currently learning algorithm
 - 💬 Ask me anything [here](https://github.com/yueban/yueban/issues)
 
 
